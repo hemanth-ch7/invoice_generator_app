@@ -58,25 +58,25 @@ The Invoice Generator is a React-based web application designed to streamline in
 
 ### Invoice Generator
 
-![Screenshot 2024-12-23 131946](https://drive.google.com/file/d/15jhQipVzFNEXJ19As0KS8LWVnCC-udg7/view?usp=sharing)
+![Screenshot 2024-12-23 131946](public\Invoice Generator UI.png)
 
 *Figure 1: Invoice Generator UI.*
 
 ### Invoice Generator After Creating Invoice 
 
-![Screenshot 2024-12-23 132003](https://drive.google.com/file/d/1MKYqlRehzHxRnr9DRSYs7-Qu8UjD2ekl/view?usp=drive_link)
+![Screenshot 2024-12-23 132003](D:\invoice_generator_app\public\Invoice generator After Created UI.png)
 
 *Figure 2: Invoice generator after creating Invoice.*
 
 ### Product Management 
 
-![Screenshot 2024-12-23 132003](https://drive.google.com/file/d/1jHNddG1pMJP46YdwyH34497P7vnGYA1F/view?usp=drive_link)
+![Screenshot 2024-12-23 132003](public\Product Management UI.png)
 
 *Figure 2: Product Management.*
 
 ### Editing Products
 
-![Screenshot 2024-12-23 132003](https://drive.google.com/file/d/1NoegPvtJ1EIEGqLNDLsTg6S3pk6NP7Gh/view?usp=drive_link)
+![Screenshot 2024-12-23 132003](D:\invoice_generator_app\public\Products Editing UI.png)
 
 *Figure 2: Editing Products.*
 
