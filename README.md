@@ -64,7 +64,7 @@ The Invoice Generator is a React-based web application designed to streamline in
 
 ### Invoice Generator After Creating Invoice 
 
-![Screenshot 2024-12-23 132003](https://github.com/hemanth-ch7/invoice_generator_app/blob/main/public/Invoice%20generator%20After%20Created%20UI.pn)
+![Screenshot 2024-12-23 132003](https://github.com/hemanth-ch7/invoice_generator_app/blob/main/public/Invoice%20generator%20After%20Created%20UI.png)
 
 *Figure 2: Invoice generator after creating Invoice.*
 
