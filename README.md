@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+# Invoice Generator Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Invoice Generator is a React-based web application designed to streamline invoice creation and product management for store owners. It allows users to generate invoices, calculate taxes, and manage store details efficiently.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+**Invoice Generation Portal**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Store name, order details (order ID, date, quantity, pricing)
+- Item-wise tax, grand total (with & without tax)
+- Export invoices as PDFs (optional feature)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Product Management Portal**
 
-### `npm test`
+- View, edit, delete, and update products
+- Filter by store and search by product name
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**User Authentication (Optional)**
 
-### `npm run build`
+- Store owners can log in to manage store details and view invoices
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/hemanth-ch7/invoice_generator_app.git
 
-### `npm run eject`
+2. Navigate to the project folder:
+   ```bash
+   cd invoice_generator_app
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5. Open `http://localhost:3000` in your browser.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Technologies Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **React**: Structure of the Application and functionality.
+- **Bootstrap**: Styling and positioning.
+- **JavaScript**: Logic for Application.
+- **HTML&CSS**: 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## Preview
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Invoice Generator
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot 2024-12-23 131946](https://drive.google.com/file/d/15jhQipVzFNEXJ19As0KS8LWVnCC-udg7/view?usp=sharing)
 
-### Code Splitting
+*Figure 1: Invoice Generator UI.*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Invoice Generator After Creating Invoice 
 
-### Analyzing the Bundle Size
+![Screenshot 2024-12-23 132003](https://drive.google.com/file/d/1MKYqlRehzHxRnr9DRSYs7-Qu8UjD2ekl/view?usp=drive_link)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+*Figure 2: Invoice generator after creating Invoice.*
 
-### Making a Progressive Web App
+### Product Management 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Screenshot 2024-12-23 132003](https://drive.google.com/file/d/1jHNddG1pMJP46YdwyH34497P7vnGYA1F/view?usp=drive_link)
 
-### Advanced Configuration
+*Figure 2: Product Management.*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Editing Products
 
-### Deployment
+![Screenshot 2024-12-23 132003](https://drive.google.com/file/d/1NoegPvtJ1EIEGqLNDLsTg6S3pk6NP7Gh/view?usp=drive_link)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+*Figure 2: Editing Products.*
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Uses
+
+1. Navigate to the Invoice Portal to create and manage invoices.
+
+2. Use the Product Management section to update store products.
+
+3. Filter and search for specific products.
+
+---
+
+## Contributing
+
+Contributions are welcome! If you’d like to improve this project, please:
+
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request with a detailed explanation of your changes.
+
+---
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- **Email**: [hemanthchiluka7@gmail.com](mailto:hemanthchiluka7@gmail.com)
+- **GitHub**: [Hemanth Chiluka](https://github.com/hemanth-ch7?tab=repositories)
+
