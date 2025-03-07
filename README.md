@@ -70,7 +70,7 @@ The Invoice Generator is a React-based web application designed to streamline in
 
 ### Product Management 
 
-![Screenshot 2024-12-23 132003](public\Product Management UI.png)
+![Screenshot 2024-12-23 132003](https://github.com/hemanth-ch7/invoice_generator_app/blob/main/public/Invoice%20Generator%20UI.png)
 
 *Figure 2: Product Management.*
 
